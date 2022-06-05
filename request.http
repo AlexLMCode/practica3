@@ -15,7 +15,7 @@ Content-Type: application/json
   "language": ["English", "Spanish"],
   "developer": "Rockstar Games",
   "genre": "World Open",
-  "releaseDate": "5 feb 2012"
+  "releaseDate": "5 feb 2012",
 }
 
 # {
